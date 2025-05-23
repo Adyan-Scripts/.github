@@ -78,12 +78,17 @@
 
 ---
 
-## 🏆 Achievements
+## 🌐 Community & Socials
+
+<div align="center">
+  <a href="https://discord.gg/kV6QgtHdAZ"><img src="https://skillicons.dev/icons?i=discord" height="40" title="Discord"/></a>
+  <a href="https://github.com/Adyan-Scripts"><img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub"/></a>
+  <a href="https://www.youtube.com/@adyanscripts"><img src="https://skillicons.dev/icons?i=youtube" height="40" title="YouTube"/></a>
+  <a href="mailto:adyanshaikh06@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" height="32" title="Email"/></a>
+</div>
 
 <p align="center">
-  <a href="https://github.com/Adyan-Scripts?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adyan-Scripts&theme=radical&margin-w=10&no-frame=true" alt="GitHub Trophies"/>
-  </a>
+  <b>Connect, collaborate, and grow with our open source community!</b>
 </p>
 
 ---
