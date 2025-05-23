@@ -31,7 +31,8 @@
 > <img src="https://img.shields.io/badge/We%20Love-FiveM-43B581?style=flat-square&logo=lua&logoColor=white"/> **Adyan Scripts** delivers high-quality, modern, and reliable FiveM scripts for the GTA V roleplay community. We focus on open-source solutions, community-driven development, and seamless integration for your FiveM servers.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=lua,github,discord,youtube,html,css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=lua,github,discord,html,css" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40" title="YouTube"/>
 </div>
 
 <table align="center">
@@ -83,7 +84,7 @@
 <div align="center">
   <a href="https://discord.gg/kV6QgtHdAZ"><img src="https://skillicons.dev/icons?i=discord" height="40" title="Discord"/></a>
   <a href="https://github.com/Adyan-Scripts"><img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub"/></a>
-  <a href="https://www.youtube.com/@adyanscripts"><img src="https://skillicons.dev/icons?i=youtube" height="40" title="YouTube"/></a>
+  <a href="https://www.youtube.com/@adyanscripts"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40" title="YouTube"/></a>
   <a href="mailto:adyanshaikh06@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" height="32" title="Email"/></a>
 </div>
 
