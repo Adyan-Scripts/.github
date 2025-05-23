@@ -32,7 +32,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=lua,github,discord,html,css" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40" title="YouTube"/>
+  <a href="https://www.youtube.com/@adyanscripts"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" height="32" title="YouTube"/></a>
 </div>
 
 <table align="center">
