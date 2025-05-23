@@ -55,12 +55,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Adyan-Scripts?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Adyan-Scripts&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs"/>
-  </a>
-</p>
-
 ---
 
 ## 🌟 Why Choose Us?
