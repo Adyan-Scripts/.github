@@ -54,6 +54,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Adyan-Scripts?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=Adyan-Scripts&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs"/>
+  </a>
+</p>
+
 ---
 
 ## 🌟 Why Choose Us?
@@ -69,6 +75,14 @@
   <li>⚡ <b>Easy to use and integrate</b></li>
   <li>🏆 <b>Trusted by the FiveM community</b></li>
 </ul>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adyan-Scripts&theme=radical&margin-w=10&no-frame=true"/>
+</p>
 
 ---
 
