@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/kV6QgtHdAZ"><img src="https://img.shields.io/discord/1070722970416320554?label=Discord&logo=discord&style=for-the-badge" alt="Discord"/></a>
+  <a href="https://discord.gg/kV6QgtHdAZ"><img src="https://img.shields.io/discord/1069930711773097984?label=Discord&logo=discord&style=for-the-badge" alt="Discord"/></a>
   <a href="https://github.com/Adyan-Scripts"><img src="https://img.shields.io/github/followers/Adyan-Scripts?label=Follow&style=for-the-badge" alt="GitHub Followers"/></a>
-  <a href="https://www.youtube.com/@adyanscripts"><img src="https://img.shields.io/youtube/channel/subscribers/UCyourchannelid?label=YouTube&logo=youtube&style=for-the-badge" alt="YouTube Subscribers"/></a>
+  <a href="https://www.youtube.com/@adyanscripts"><img src="https://img.shields.io/youtube/channel/subscribers/UCPOnxr4KiYv441UeoiF_0pg?label=YouTube&logo=youtube&style=for-the-badge" alt="YouTube Subscribers"/></a>
 </p>
 
 ---
@@ -84,7 +84,7 @@
 <div align="center">
   <a href="https://discord.gg/kV6QgtHdAZ"><img src="https://skillicons.dev/icons?i=discord" height="40" title="Discord"/></a>
   <a href="https://github.com/Adyan-Scripts"><img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub"/></a>
-  <a href="https://www.youtube.com/@adyanscripts"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40" title="YouTube"/></a>
+  <a href="https://www.youtube.com/@adyanscripts"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" height="32" title="YouTube"/></a>
   <a href="mailto:adyanshaikh06@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" height="32" title="Email"/></a>
 </div>
 
