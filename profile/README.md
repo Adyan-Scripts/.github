@@ -62,27 +62,31 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3f5efb&center=true&vCenter=true&width=600&lines=Modern+%26+Well-Documented;Community+Support;Open+Source+Philosophy;Easy+Integration;Trusted+by+FiveM+Community" alt="Why Choose Us"/>
 </div>
 
-- ✨ Modern, robust, and well-documented scripts
-- 🤝 Community support and regular updates
-- 🆓 Open-source philosophy
-- ⚡ Easy to use and integrate
-- 🏆 Trusted by the FiveM community
+<ul align="center">
+  <li>✨ <b>Modern, robust, and well-documented scripts</b></li>
+  <li>🤝 <b>Community support and regular updates</b></li>
+  <li>🆓 <b>Open-source philosophy</b></li>
+  <li>⚡ <b>Easy to use and integrate</b></li>
+  <li>🏆 <b>Trusted by the FiveM community</b></li>
+</ul>
 
 ---
 
 ## 📣 Get Involved
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Star-our%20repositories-yellow?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Report-issues%20%26%20suggest-blue?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Contribute-via%20PRs-brightgreen?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/Adyan-Scripts?tab=repositories"><img src="https://img.shields.io/badge/Star-our%20repositories-yellow?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/Adyan-Scripts/issues"><img src="https://img.shields.io/badge/Report-issues%20%26%20suggest-blue?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/Adyan-Scripts/pulls"><img src="https://img.shields.io/badge/Contribute-via%20PRs-brightgreen?style=for-the-badge&logo=github"/></a>
   <img src="https://img.shields.io/badge/Spread-the%20word-ff69b4?style=for-the-badge&logo=megaport"/>
 </div>
 
-- ⭐ **Star** our repositories
-- 🐛 **Report** issues and suggest features
-- 🤝 **Contribute** via pull requests
-- 📢 **Spread the word!**
+<ul align="center">
+  <li>⭐ <b>Star</b> our repositories</li>
+  <li>🐛 <b>Report</b> issues and suggest features</li>
+  <li>🤝 <b>Contribute</b> via pull requests</li>
+  <li>📢 <b>Spread the word!</b></li>
+</ul>
 
 ---
 
