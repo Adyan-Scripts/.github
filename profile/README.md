@@ -81,7 +81,9 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adyan-Scripts&theme=radical&margin-w=10&no-frame=true"/>
+  <a href="https://github.com/Adyan-Scripts?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=Adyan-Scripts&theme=radical&margin-w=10&no-frame=true" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 ---
